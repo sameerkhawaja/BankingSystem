@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BankingSolution.API\BankingSystem.API.csproj" />
+    <ProjectReference Include="..\BankingSystem.API\BankingSystem.API.csproj" />
   </ItemGroup>
 
 </Project>
